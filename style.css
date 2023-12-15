@@ -4,6 +4,11 @@ body {
 h1 { 
     color: white; 
 }
-img { 
-    height: 20%; 
+.lead { 
+    color: white; 
+}
+#response-img{
+    height: 60vh;
+    width: 60vh;
+
 }
