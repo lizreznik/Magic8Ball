@@ -28,7 +28,7 @@ function shakeMagic8Ball() {
         case 2: 
             answer = "Ask again later"; 
             image = "askagainlater-image.jpg" //change this!//; 
-            color = "secondary";
+            color = "text-secondary";
             break; 
         case 3: 
             answer = "Maybe";
